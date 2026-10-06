@@ -1,1 +1,0 @@
-"""Database seed operation placeholder."""

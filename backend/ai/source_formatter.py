@@ -1,1 +1,0 @@
-"""Source citation formatting placeholder."""

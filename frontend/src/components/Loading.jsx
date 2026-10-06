@@ -1,1 +1,0 @@
-// Loading state component placeholder.

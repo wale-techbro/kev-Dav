@@ -1,1 +1,0 @@
-"""Shared agent state definitions placeholder."""

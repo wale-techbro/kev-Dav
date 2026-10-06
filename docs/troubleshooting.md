@@ -1,3 +1,0 @@
-# Troubleshooting
-
-Troubleshooting documentation placeholder.

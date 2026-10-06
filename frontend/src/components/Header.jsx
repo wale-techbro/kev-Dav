@@ -1,1 +1,0 @@
-// Application header component placeholder.

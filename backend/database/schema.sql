@@ -1,1 +1,0 @@
--- Database schema placeholder; no tables are defined yet.

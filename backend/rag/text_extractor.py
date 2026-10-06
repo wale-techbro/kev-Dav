@@ -1,1 +1,0 @@
-"""Document text extraction placeholder."""

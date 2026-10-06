@@ -1,1 +1,0 @@
-"""Route declarations placeholder for the HTTP API."""

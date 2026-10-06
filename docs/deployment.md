@@ -1,3 +1,0 @@
-# Deployment
-
-Deployment documentation placeholder.

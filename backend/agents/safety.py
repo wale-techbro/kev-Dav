@@ -1,1 +1,0 @@
-"""Agent safety checks placeholder."""

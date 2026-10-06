@@ -1,3 +1,0 @@
-# Frontend
-
-Frontend documentation placeholder.

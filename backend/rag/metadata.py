@@ -1,1 +1,0 @@
-"""Document metadata definitions placeholder."""

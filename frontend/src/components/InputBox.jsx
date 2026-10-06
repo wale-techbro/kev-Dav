@@ -1,1 +1,0 @@
-// Chat input component placeholder.

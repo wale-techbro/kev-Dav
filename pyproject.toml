@@ -1,9 +1,0 @@
-[project]
-name = "torilo-ai-student-assistant"
-version = "0.1.0"
-description = "Torilo Academy AI Student Assistant"
-requires-python = ">=3.11"
-dependencies = []
-
-[tool.pytest.ini_options]
-testpaths = ["tests"]

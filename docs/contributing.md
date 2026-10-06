@@ -1,3 +1,0 @@
-# Contributing
-
-Contribution documentation placeholder.

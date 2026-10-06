@@ -1,1 +1,0 @@
-"""API error definitions and handling placeholder."""

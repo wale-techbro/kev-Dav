@@ -1,1 +1,0 @@
-"""Course information tool placeholder."""

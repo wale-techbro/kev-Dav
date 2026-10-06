@@ -1,1 +1,0 @@
-"""Document schema definitions placeholder."""

@@ -1,1 +1,0 @@
-"""Dependency provider placeholder for API handlers."""
