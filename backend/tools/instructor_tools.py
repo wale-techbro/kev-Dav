@@ -1,0 +1,1 @@
+"""Instructor information tool placeholder."""

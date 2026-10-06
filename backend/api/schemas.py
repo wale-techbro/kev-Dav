@@ -1,0 +1,1 @@
+"""Request and response schema placeholder for the HTTP API."""

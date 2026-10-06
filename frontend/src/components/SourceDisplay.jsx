@@ -1,0 +1,1 @@
+// Source display component placeholder.

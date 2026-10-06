@@ -1,0 +1,1 @@
+"""Language model client integration placeholder."""
